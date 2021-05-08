@@ -1,0 +1,26 @@
+lamps:  18
+big:    6
+small:  12
+
+watt big:       9.5 -> 57
+watt small:     5.5 -> 66
+watt bridge:    7.5
+
+watt raspi zero:    0.6
+watt big standby:   0.5
+watt small standby:   0.5
+
+
+ewb ökostrohm 1kW/h : 11.9rp
+
+1h licht aus: 9.1W
+1h licht an:  130W
+
+
+Sun our year aus: 4440h / 40.4kW
+Sun our year an:  4440h / 577.2kW
+year aus: 480.8rp -> 4.80 CHF
+year an: 6868.7rp -> 68.70 CHF
+
+Ersparnis Franken: 68.70 - 4.80 = 63.90 CHF
+Ersparnis Watt: 577.2kW - 40.4kW = 536.8kW
